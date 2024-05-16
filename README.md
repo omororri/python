@@ -1,6 +1,9 @@
 ```json
 {
-    "repository": "python"
+    "repository": {
+        "name": "python",
+        "subtitle": "python scripts"
+    }
 }
 
 ```
